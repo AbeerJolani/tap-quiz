@@ -1,0 +1,36 @@
+<html>
+<head>
+<title> my site </title>
+</head>
+<style>
+.t{width:100%;}
+div{color:#D1884F}
+h1{color:#008AAA; font-family:Poppins}
+#blu {color:#3BBADB}
+button {background-color:#008AAA; color:white}
+.td{height :250px ;width:400px}
+</style>
+<body style="width:100%">
+<table style="position:absolute;right:100px;top:15px width:100%">
+<tr>
+<td  >  home </td> 
+<td  >  about me </td>
+<td  >  contact me </td>
+</tr>
+</table>
+<table class="t">
+<td class="td">
+
+<p id="blu"> welcome to my site </p>
+<h1>Hi I am Abeer, <div>a passionate persone </div> </h1>
+<p>I have been volunteering for 7+ years in many places and am grateful for the rich skills and experience I have gained from this.
+In my specialty, I am Interested in web development and data science (specific in database - SQL Developing), and I have small busness :<a href= "https://www.instagram.com/nawrs.diy/"><strong>nawrs.diy</strong></a></p>
+<button>hire me</button>
+<button>see my project</button>
+</td>
+<td class= "td">
+<img src= "abeer.jpg"  style="position:absolute;height :300px ;width:400px">
+</td>
+</table>
+</body>
+</html>
